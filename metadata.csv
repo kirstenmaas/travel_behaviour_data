@@ -1,0 +1,267 @@
+﻿"TableInfos"
+"ID";"Title";"ShortTitle";"Identifier";"Summary";"Modified";"ReasonDelivery";"ExplanatoryText";"Language";"Catalog";"Frequency";"Period";"ShortDescription";"Description";"DefaultPresentation";"DefaultSelection";"GraphTypes";"OutputStatus";"Source";"MetaDataModified";"SearchPriority"
+"0";"Personenmobiliteit in Nederland; vervoerwijzen en reismotieven, regio's";"Mobiliteit; vervoerwijzen, reismotieven";"83500NED";"Aantal verplaatsingen, afgelegde afstand, reisduur per inwoner
+Vervoerwijzen, reismotieven, regio's";"2018-07-03T02:00:00";"Actualisering";"";"nl";"CBS";"Perjaar";"2010-2017";"
+In deze tabel vindt u informatie over het verplaatsingsgedrag van de Nederlandse bevolking (exclusief tehuisbewoners) op Nederlands grondgebied. Het verplaatsingsgedrag wordt beschreven als het aantal verplaatsingen , de afgelegde afstand en de reisduur per inwoner van Nederland per dag en per jaar. Het gaat om alle verplaatsingen binnen Nederland behalve beroepsmatige verplaatsingen (zoals bijvoorbeeld van een taxichauffeur of pakketbezorger) en behalve dagen op binnenlandse en buitenlandse vakanties. Die zijn niet inbegrepen in deze tabel.
+Het reisgedrag is uitgesplitst naar reismotieven, vervoerwijzen  en regio's.
+Kilometers afgelegd in het buitenland tellen niet mee. Dit betekent dat grensoverschrijdende verplaatsingen aan de grens zijn afgekapt en daarmee de gereisde kilometers in het buitenland buiten beschouwing zijn gelaten.
+
+Gegevens beschikbaar vanaf 2010. 
+
+Status van de cijfers:
+De cijfers in deze tabel zijn definitief. 
+
+Wijziging per 3 jul 2018: 
+Cijfers over 2017 zijn toegevoegd.
+
+Wanneer komen er nieuwe cijfers?
+Medio 2019 verschijnen de cijfers over het onderzoeksjaar 2018.
+";"INHOUDSOPGAVE
+
+1. Toelichting
+2. Definities en verklaring van symbolen
+3. Koppelingen naar relevante tabellen en artikelen
+4. Bronnen en methoden
+5. Meer informatie
+
+1. TOELICHTING
+
+In deze tabel vindt u informatie over het verplaatsingsgedrag van de Nederlandse bevolking (exclusief tehuisbewoners) op Nederlands grondgebied. Het verplaatsingsgedrag wordt beschreven als het aantal verplaatsingen , de afgelegde afstand en de reisduur per inwoner van Nederland per dag en per jaar. Het gaat om alle verplaatsingen binnen Nederland behalve beroepsmatige verplaatsingen (zoals bijvoorbeeld van een taxichauffeur of pakketbezorger) en behalve dagen op binnenlandse en buitenlandse vakanties. Die zijn niet inbegrepen in deze tabel.
+Het reisgedrag is uitgesplitst naar reismotieven, vervoerwijzen  en regio's.
+Kilometers afgelegd in het buitenland tellen niet mee. Dit betekent dat grensoverschrijdende verplaatsingen aan de grens zijn afgekapt en daarmee de gereisde kilometers in het buitenland buiten beschouwing zijn gelaten.
+
+Gegevens beschikbaar vanaf 2010. 
+
+Status van de cijfers:
+De cijfers in deze tabel zijn definitief. 
+
+Wijziging per 3 jul 2018: 
+Cijfers over 2017 zijn toegevoegd.
+
+Wanneer komen er nieuwe cijfers?
+Medio 2019 verschijnen de cijfers over het onderzoeksjaar 2018.
+
+2. DEFINITIES EN VERKLARING VAN SYMBOLEN
+
+Definities:
+
+Verplaatsing
+Een verplaatsing is een reis of een gedeelte van een reis die is afgelegd met één motief. Bijvoorbeeld de afgelegde afstand van huis naar werk is één verplaatsing, ongeacht of hierbij één of meerdere vervoermiddelen worden gebruikt. 
+
+Rit
+Een rit is een verplaatsing of een onderdeel van een verplaatsing die met één vervoerwijze plaatsvindt. Bijvoorbeeld een verplaatsing van huis naar het werk met achtereenvolgens de fiets naar het station, de trein en te voet naar kantoor bestaat uit drie ritten.
+
+Afstand per persoon per dag of jaar
+Dit betreft het gemiddelde aantal kilometers dat een inwoner van Nederland op een dag of in een jaar aflegt binnen Nederland. De afstand naar vervoerwijze is op basis van de ritvervoerwijze zodat ook voor- en natransport apart gemeten zijn. Bijvoorbeeld bij een verplaatsing van huis naar het werk met achtereenvolgens de fiets naar het station, de trein en te voet naar kantoor worden de kilometers voor de drie vervoerwijzen apart geteld. Beroepsmatige verplaatsingen en verplaatsingen op binnenlandse en buitenlandse vakanties zijn niet inbegrepen.
+
+Verplaatsingen per persoon per dag of jaar
+Dit betreft het gemiddelde aantal verplaatsingen van een inwoner van Nederland op een dag of in een jaar binnen Nederland. De verplaatsingen naar vervoerwijze betreffen de hoofdvervoerwijze van een verplaatsing, het voor- en natransport wordt hierbij genegeerd. Bijvoorbeeld bij een verplaatsing van huis naar het werk met achtereenvolgens de fiets naar het station, de trein en te voet naar kantoor wordt de verplaatsing als treinverplaatsing geteld. Beroepsmatige verplaatsingen en verplaatsingen op binnenlandse en buitenlandse vakanties zijn niet inbegrepen.
+
+Reisduur per persoon per dag of jaar
+Dit betreft de gemiddelde reisduur van van een inwoner van Nederland op een dag of in een jaar binnen Nederland. De reisduur naar vervoerwijze betreft de hoofdvervoerwijze van een verplaatsing, het voor- en natransport wordt hierbij genegeerd. Bijvoorbeeld bij een verplaatsing van huis naar het werk met achtereenvolgens de fiets naar het station, de trein en te voet naar kantoor wordt de verplaatsing als treinverplaatsing geteld. De totale reisduur valt dan onder de hoofdvervoerwijze trein. Beroepsmatige verplaatsingen en verplaatsingen op binnenlandse en buitenlandse vakanties zijn niet inbegrepen.
+
+Verklaring van symbolen:
+
+niets (blanco)	: het cijfer kan op logische gronden niet voorkomen
+. 		: het cijfer is onbekend, onvoldoende betrouwbaar of geheim
+*		: voorlopige cijfers
+**		: nader voorlopige cijfers
+
+3. KOPPELINGEN NAAR RELEVANTE TABELLEN EN ARTIKELEN
+
+<a href='https://opendata.cbs.nl/statline/#/CBS/nl/dataset/83494ned'>Personenmobiliteit in Nederland; reiskenmerken en reismotieven, regio's</a>    
+
+<a href='https://opendata.cbs.nl/statline/#/CBS/nl/dataset/83495ned'>Personenmobiliteit in Nederland; persoonskenmerken en reismotieven, regio's</a>      
+
+<a href='https://opendata.cbs.nl/statline/#/CBS/nl/dataset/83496ned'>Personenmobiliteit; aandeel van verkeersdeelnemers naar persoonskenmerken </a>      
+
+<a href='https://opendata.cbs.nl/statline/#/CBS/nl/dataset/83497ned'>Totale reizigerskilometers in Nederland per jaar; vervoerwijzen, regio's</a>      
+
+<a href='https://opendata.cbs.nl/statline/#/CBS/nl/dataset/83498ned'>Personenmobiliteit in Nederland; reiskenmerken en vervoerwijzen, regio's </a>     
+
+<a href='https://opendata.cbs.nl/statline/#/CBS/nl/dataset/83499ned'>Personenmobiliteit in Nederland; persoonskenmerken en vervoerwijzen, regio</a>      
+
+4. BRONNEN EN METHODEN
+
+De cijfers in deze tabel zijn gebaseerd op het Onderzoek Verplaatsingen in Nederland (OViN). Momenteel loopt er een innovatietraject voor dit onderzoek.
+
+Ten opzichte van de tabel <a href='http://statline.cbs.nl/StatWeb/publication/?VW=T&DM=slnl&PA=81129NED&D1=a&D2=0&D3=a&D4=0&D5=0,13-16&D6=l&HD=120216-0752&HDR=T&STB=G1,G2,G3,G4,G5'>Mobiliteit in Nederland; vervoerwijzen en motieven, regio's</a> zijn gegevens vaker als onvoldoende betrouwbaar gekenmerkt. Dit is gedaan uit kwaliteitsoverwegingen.
+
+De onderzoeksmethode van deze tabel is te vinden in de onderzoeksbeschrijving <a href='https://www.cbs.nl/nl-nl/onze-diensten/methoden/onderzoeksomschrijvingen/korte-onderzoeksbeschrijvingen/onderzoek-verplaatsingen-in-nederland--ovin--'>Onderzoek Verplaatsingen in Nederland (OViN)</a>.
+
+5. MEER INFORMATIE
+
+<a href='https://www.cbs.nl/nl-nl/over-ons/contact/infoservice'>Infoservice</a>
+
+Copyright (c) Centraal Bureau voor de Statistiek, Den Haag/Heerlen 
+Verveelvoudiging is toegestaan, mits CBS als bron wordt vermeld.
+
+";"ts=1530000512245&graphtype=Table&r=RegioS,Reismotieven,Vervoerwijzen,Perioden&k=Topics&t=Populatie&_gu=LD";"$filter=((Populatie eq '10000')) and ((Vervoerwijzen eq 'T001093') or (Vervoerwijzen eq 'A018979') or (Vervoerwijzen eq 'A018980') or (Vervoerwijzen eq 'A018984')) and ((Reismotieven eq '2030170') or (Reismotieven eq 'T001080')) and ((Perioden eq '2015JJ00') or (Perioden eq '2016JJ00') or (Perioden eq '2017JJ00')) and ((RegioS eq 'NL01    ') or (RegioS eq 'LD02    '))&$select=Populatie, Vervoerwijzen, Reismotieven, Perioden, RegioS, Verplaatsingen_1, Afstand_2, Reisduur_3, Afstand_4, ReisduurPerVerplaatsing_5, Verplaatsingen_6, Afstand_7, Reisduur_8";"Table,Bar,Line,Map";"Regulier";"CBS.";"2018-07-03T02:00:00";"2"
+"DataProperties"
+ID;Position;ParentID;Type;Key;Title;Description;ReleasePolicy;Datatype;Unit;Decimals;Default
+"0";"0";;"Dimension";"Populatie";"Populatie";"";;;;;
+"1";"1";;"Dimension";"Vervoerwijzen";"Vervoerwijzen";"";;;;;
+"2";"2";;"Dimension";"Reismotieven";"Reismotieven";"";;;;;
+"3";"3";;"GeoDimension";"RegioS";"Regio's";"";;;;;
+"4";"4";;"TimeDimension";"Perioden";"Perioden";"";"true";;;;
+"5";;;"TopicGroup";"";"Reisgegevens per persoon per dag";"";;;;;
+"6";"5";"5";"Topic";"Verplaatsingen_1";"Verplaatsingen ";"Dit betreft het gemiddelde aantal verplaatsingen van een persoon op een dag. De verplaatsingen naar vervoerwijze betreffen de hoofdvervoerwijze van een verplaatsing, het voor- en natransport wordt hierbij genegeerd. Bijvoorbeeld bij een verplaatsing van huis naar het werk met achtereenvolgens de fiets naar het station, de trein en te voet naar kantoor wordt de verplaatsing als treinverplaatsing geteld.";;"Double";"aantal";"2";"Missing"
+"7";"6";"5";"Topic";"Afstand_2";"Afstand";"Dit betreft het gemiddelde aantal kilometers dat een persoon op een dag aflegt. De afstand naar vervoerwijze is op basis van de ritvervoerwijze zodat ook voor- en natransport apart gemeten zijn. Bijvoorbeeld bij een   verplaatsing van huis naar het werk met achtereenvolgens de fiets naar het station, de trein en te voet naar kantoor worden de kilometers voor de drie vervoerwijzen apart geteld.";;"Double";"km";"2";"Missing"
+"8";"7";"5";"Topic";"Reisduur_3";"Reisduur ";"Dit betreft de gemiddelde reisduur van een persoon op een dag. De reisduur naar vervoerwijze betreft de hoofdvervoerwijze van een verplaatsing, het voor- en natransport wordt hierbij genegeerd. Bijvoorbeeld bij een verplaatsing van huis naar het werk met achtereenvolgens de fiets naar het station, de trein en te voet naar kantoor wordt de verplaatsing als treinverplaatsing geteld. De totale reisduur valt dan onder de hoofdvervoerwijze trein. ";;"Double";"minuten";"2";"Missing"
+"9";;;"TopicGroup";"";"Reisgegevens per verplaatsing";;;;;;
+"10";"8";"9";"Topic";"Afstand_4";"Afstand";"Dit betreft het gemiddelde aantal kilometers dat per verplaatsing wordt afgelegd. De afstand naar vervoerwijze is op basis van de ritvervoerwijze zodat ook voor- en natransport apart gemeten zijn. Het aantal verplaatsingen is echter naar de hoofdvervoerwijze van een verplaatsing.";;"Double";"km";"2";"Missing"
+"11";"9";"9";"Topic";"ReisduurPerVerplaatsing_5";"Reisduur per verplaatsing";"Dit betreft het gemiddelde aantal minuten dat een verplaatsing duurt. De reisduur naar vervoerwijze betreft de hoofdvervoerwijze van een verplaatsing. Dit betekent bijvoorbeeld dat bij een woon-werkverplaatsing met de fiets naar het station, met de trein en lopend naar kantoor de reisduur onder de hoofdvervoerwijze trein valt.";;"Double";"minuten";"2";"Missing"
+"12";;;"TopicGroup";"";"Reisgegevens per persoon per jaar";"";;;;;
+"13";"10";"12";"Topic";"Verplaatsingen_6";"Verplaatsingen";"Dit betreft het gemiddelde aantal verplaatsingen van een persoon per jaar. De verplaatsingen naar vervoerwijze betreffen de hoofdvervoerwijze van een verplaatsing, het voor- en natransport wordt hierbij genegeerd. Bijvoorbeeld bij een verplaatsing van huis naar het werk met achtereenvolgens de fiets naar het station, de trein en te voet naar kantoor wordt de verplaatsing als treinverplaatsing geteld.";;"Long";"aantal";"0";"Missing"
+"14";"11";"12";"Topic";"Afstand_7";"Afstand";"Dit betreft het gemiddelde aantal kilometers dat een persoon per jaar  aflegt. De afstand naar vervoerwijze is op basis van de ritvervoerwijze zodat ook voor- en natransport apart gemeten zijn. Bijvoorbeeld bij een verplaatsing van huis naar het werk met achtereenvolgens de fiets naar het station, de trein en te voet naar kantoor worden de kilometers voor de drie vervoerwijzen apart geteld.";;"Long";"km";"0";"Missing"
+"15";"12";"12";"Topic";"Reisduur_8";"Reisduur";"Dit betreft de gemiddelde reisduur van een persoon per jaar. De reisduur naar vervoerwijze betreft de hoofdvervoerwijze van een verplaatsing, het voor- en natransport wordt hierbij genegeerd. Bijvoorbeeld bij een verplaatsing van huis naar het werk met achtereenvolgens de fiets naar het station, de trein en te voet naar kantoor wordt de verplaatsing als treinverplaatsing geteld. De totale reisduur valt dan onder de hoofdvervoerwijze trein. ";;"Double";"uren";"1";"Missing"
+"Populatie"
+Key;Title;Description
+"10000";"Totaal";""
+"20100";"12 jaar of ouder";""
+"Vervoerwijzen"
+Key;Title;Description
+"T001093";"Totaal";""
+"A018979";"Auto (bestuurder)";""
+"A018980";"Auto (passagier)";""
+"A018981";"Trein";""
+"A018982";"Bus/tram/metro";""
+"A018983";"Brom-/snorfiets";""
+"A018984";"Fiets";""
+"A018985";"Lopen";""
+"A018986";"Overige vervoerwijze";""
+"Reismotieven"
+Key;Title;Description
+"2030170";"Van en naar werkadres";"Verplaatsingen van en naar een werkadres. Dit kan een vast werkadres zijn, maar ook een tijdelijk werkadres. Het gaat dus ook om adressen waar men tegen  betaling als oproepkracht werkt, een bijbaantje heeft of vrijwilligerswerk uitvoert."
+"2030180";"Zakelijk bezoek in werksfeer";"Bij /""/zakelijk bezoek in de werksfeer/""/ gaat het om verplaatsingen vanwege het werk, maar niet naar een werkadres waar men kantoor houdt of regelmatig het werk verricht. Het gaat hier vooral om dienstreizen, klantenbezoek, vergaderingen en symposia."
+"2030190";"Diensten/verzorging";"Hiertoe  behoren verplaatsingen naar een locatie waar men (eventueel tegen betaling) een dienst verleend krijgt of waar men terecht kan voor de persoonlijke verzorging. Het gaat hier om bijvoorbeeld een bezoek aan het gemeentehuis, de kapper, de huisarts of een hypotheekadviseur."
+"2030200";"Winkelen, boodschappen doen";"Betreft het kopen van goederen. Het kan daarbij zowel gaan om food als om non-food. Ook het kijken, maar niet kopen zoals windowshopping en bezichtigen van producten valt onder /""/winkelen/boodschappen doen/""/."
+"2030210";"Volgen onderwijs/cursus en kinderopvang";"Hieronder valt alles wat met het volgen van onderwijs en kinderopvang te maken heeft."
+"2030220";"Visite/logeren";"Betreft het op bezoek gaan en eventueel overnachten bij familie, vrienden of kennissen."
+"2030230";"Sport, hobby, horecabezoek";"Sportieve verplaatsingen of verplaatsingen naar een locatie om een sport of hobby te beoefenen of te aanschouwen. Ook tellen de verplaatsingen mee ten behoeve van bezoek aan horecagelegenheden, culturele activiteiten en religieuze bezigheden. Ook buiten spelen is een vorm van /""/sport en ontspanning/""/."
+"2030240";"Toeren/wandelen";"Met name recreatieve verplaatsingen te voet, met de fiets of met de auto of motor. Ook het uitlaten van de hond valt onder /""/toeren/wandelen/""/. Dit betreffen altijd /""/rondjes/""/ met hetzelfde begin- en eindadres. Het gaat hier expliciet niet om de autorit ergens naar toe om daar te gaan wandelen maar puur om de wandeling/toertocht op zich."
+"2030250";"Overige reismotieven";"Onder andere het niet-commercieel /""/brengen en halen van personen/""/ en /""/brengen en halen van goederen/""/. Verder vallen hier verplaatsingen onder met als einddoel /""/naar de parkeerplaats/""/, /""/naar de auto/""/ of /""/naar een station of bushalte/""/. Verder bevat deze categorie de doelen die niet onder één van de andere categorieën geschaard kunnen worden."
+"T001080";"Totaal";""
+"RegioS"
+Key;Title;Description
+"NL01    ";"Nederland";""
+"LD01    ";"Noord-Nederland (LD)";"Noord-Nederland: Groningen, Friesland, Drenthe
+
+LD = Landsdeel
+
+Regionale groepering van provincies. Nederland telt 4 landsdelen."
+"LD02    ";"Oost-Nederland (LD)";"Oost-Nederland: Overijssel, Flevoland, Gelderland
+
+LD = Landsdeel
+
+Regionale groepering van provincies. Nederland telt 4 landsdelen."
+"LD03    ";"West-Nederland (LD)";"West-Nederland: Utrecht, Noord-Holland, Zuid-Holland, Zeeland
+
+LD = Landsdeel
+
+Regionale groepering van provincies. Nederland telt 4 landsdelen."
+"LD04    ";"Zuid-Nederland (LD)";"Zuid-Nederland: Noord-Brabant, Limburg
+
+LD = Landsdeel
+
+Regionale groepering van provincies. Nederland telt 4 landsdelen."
+"PV20    ";"Groningen (PV)";"PV = Provincie
+
+Bestuurlijke onderverdeling van het Nederlands grondgebied. Sinds het
+instellen van de provincie Flevoland per 1 januari 1986 telt Nederland 12
+provincies."
+"PV21    ";"Friesland (PV)";"PV = Provincie
+
+Bestuurlijke onderverdeling van het Nederlands grondgebied. Sinds het
+instellen van de provincie Flevoland per 1 januari 1986 telt Nederland 12
+provincies."
+"PV22    ";"Drenthe (PV)";"PV = Provincie
+
+Bestuurlijke onderverdeling van het Nederlands grondgebied. Sinds het
+instellen van de provincie Flevoland per 1 januari 1986 telt Nederland 12
+provincies."
+"PV23    ";"Overijssel (PV)";"PV = Provincie
+
+Bestuurlijke onderverdeling van het Nederlands grondgebied. Sinds het
+instellen van de provincie Flevoland per 1 januari 1986 telt Nederland 12
+provincies."
+"PV24    ";"Flevoland (PV)";"PV = Provincie
+
+Bestuurlijke onderverdeling van het Nederlands grondgebied. Sinds het
+instellen van de provincie Flevoland per 1 januari 1986 telt Nederland 12
+provincies."
+"PV25    ";"Gelderland (PV)";"PV = Provincie
+
+Bestuurlijke onderverdeling van het Nederlands grondgebied. Sinds het
+instellen van de provincie Flevoland per 1 januari 1986 telt Nederland 12
+provincies."
+"PV26    ";"Utrecht (PV)";"PV = Provincie
+
+Bestuurlijke onderverdeling van het Nederlands grondgebied. Sinds het
+instellen van de provincie Flevoland per 1 januari 1986 telt Nederland 12
+provincies."
+"PV27    ";"Noord-Holland (PV)";"PV = Provincie
+
+Bestuurlijke onderverdeling van het Nederlands grondgebied. Sinds het
+instellen van de provincie Flevoland per 1 januari 1986 telt Nederland 12
+provincies."
+"PV28    ";"Zuid-Holland (PV)";"PV = Provincie
+
+Bestuurlijke onderverdeling van het Nederlands grondgebied. Sinds het
+instellen van de provincie Flevoland per 1 januari 1986 telt Nederland 12
+provincies."
+"PV29    ";"Zeeland (PV)";"PV = Provincie
+
+Bestuurlijke onderverdeling van het Nederlands grondgebied. Sinds het
+instellen van de provincie Flevoland per 1 januari 1986 telt Nederland 12
+provincies."
+"PV30    ";"Noord-Brabant (PV)";"PV = Provincie
+
+Bestuurlijke onderverdeling van het Nederlands grondgebied. Sinds het
+instellen van de provincie Flevoland per 1 januari 1986 telt Nederland 12
+provincies."
+"PV31    ";"Limburg (PV)";"PV = Provincie
+
+Bestuurlijke onderverdeling van het Nederlands grondgebied. Sinds het
+instellen van de provincie Flevoland per 1 januari 1986 telt Nederland 12
+provincies."
+"1018850 ";"Zeer sterk stedelijk";"Op grond van de omgevingsadressendichtheid is aan iedere buurt, wijk of gemeente een stedelijkheidsklasse toegekend. 
+Zeer sterk stedelijk:
+Omgevingsadressendichtheid van 2500 of meer adressen per km2.
+---
+Omgevingsadressendichtheid (van een adres):
+Het aantal adressen binnen een cirkel met een straal van één kilometer rondom een adres, gedeeld door de oppervlakte van de cirkel. De omgevingsadressendichtheid wordt uitgedrukt in adressen per km2."
+"1018905 ";"Sterk stedelijk";"Op grond van de omgevingsadressendichtheid is aan iedere buurt, wijk of gemeente een stedelijkheidsklasse toegekend. 
+Sterk stedelijk:
+Omgevingsadressendichtheid van 1500 tot 2500 adressen per km2.
+---
+Omgevingsadressendichtheid (van een adres):
+Het aantal adressen binnen een cirkel met een straal van één kilometer rondom een adres, gedeeld door de oppervlakte van de cirkel. De omgevingsadressendichtheid wordt uitgedrukt in adressen per km2."
+"1018955 ";"Matig stedelijk";"Op grond van de omgevingsadressendichtheid is aan iedere buurt, wijk of gemeente een stedelijkheidsklasse toegekend. 
+Weinig of matig stedelijk:
+Hiertoe behoren de gemeenten met een omgevingsadressendichtheid tussen de 1000 en 1500 adressen per km2 (matig stedelijk) en tussen de 500 en 1000  adressen per km2.
+---
+Omgevingsadressendichtheid (van een adres):
+Het aantal adressen binnen een cirkel met een straal van één kilometer rondom een adres, gedeeld door de oppervlakte van de cirkel. De omgevingsadressendichtheid wordt uitgedrukt in adressen per km2."
+"1019005 ";"Weinig stedelijk";"Op grond van de omgevingsadressendichtheid is aan iedere buurt, wijk of gemeente een stedelijkheidsklasse toegekend. 
+Weinig stedelijk:
+Omgevingsadressendichtheid van 500 tot 1000 adressen per km2.
+---
+Omgevingsadressendichtheid (van een adres):
+Het aantal adressen binnen een cirkel met een straal van één kilometer rondom een adres, gedeeld door de oppervlakte van de cirkel. De omgevingsadressendichtheid wordt uitgedrukt in adressen per km2."
+"1019052 ";"Niet stedelijk";"Op grond van de omgevingsadressendichtheid is aan iedere buurt, wijk of gemeente een stedelijkheidsklasse toegekend. 
+Niet stedelijk:
+Omgevingsadressendichtheid van minder dan 500 adressen per km2.
+---
+Omgevingsadressendichtheid (van een adres):
+Het aantal adressen binnen een cirkel met een straal van één kilometer rondom een adres, gedeeld door de oppervlakte van de cirkel. De omgevingsadressendichtheid wordt uitgedrukt in adressen per km2."
+"Perioden"
+Key;Title;Description;Status
+"2010JJ00";"2010";;"Definitief"
+"2011JJ00";"2011";"";"Definitief"
+"2012JJ00";"2012";"";"Definitief"
+"2013JJ00";"2013";"";"Definitief"
+"2014JJ00";"2014";;"Definitief"
+"2015JJ00";"2015";;"Definitief"
+"2016JJ00";"2016";;"Definitief"
+"2017JJ00";"2017";;"Definitief"
