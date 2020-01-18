@@ -10,7 +10,12 @@ data.drop('Populatie', axis=1, inplace=True)
 # Drop total columns
 data = data[~data.Vervoerwijzen.str.contains("T")]
 data = data[~data.Reismotieven.str.contains("T")]
-# Calculate totals ourselves
+
+# rename columns to convenient names
+data.rename(columns={"ID": "id", "Vervoerwijzen": "vervoerwijzen", "Reismotieven": "reismotieven", 
+"RegioS": "regio", "Perioden": "jaar", "Verplaatsingen_1": "verplaatsingen1", "Afstand_2": "afstand2", 
+"Reisduur_3": "reisduur3", "Afstand_4": "afstand4", "ReisduurPerVerplaatsing_5": "reisduurPerVerplaatsing5",
+"Verplaatsingen6": "verplaatsingen6", "Afstand_7": "afstand7", "Reisduur_8": "reisduur8"}, inplace=True)
 
 # Replace keys
 # Get the keys we want to replace the values of: Vervoerwijzen, Reismotieven, RegioS, Perioden
