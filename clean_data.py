@@ -12,10 +12,10 @@ data = data[~data.Vervoerwijzen.str.contains("T")]
 data = data[~data.Reismotieven.str.contains("T")]
 
 # rename columns to convenient names
-data.rename(columns={"ID": "id", "Vervoerwijzen": "vervoerwijzen", "Reismotieven": "reismotieven", 
-"RegioS": "regio", "Perioden": "jaar", "Verplaatsingen_1": "verplaatsingen1", "Afstand_2": "afstand2", 
-"Reisduur_3": "reisduur3", "Afstand_4": "afstand4", "ReisduurPerVerplaatsing_5": "reisduurPerVerplaatsing5",
-"Verplaatsingen_6": "verplaatsingen6", "Afstand_7": "afstand7", "Reisduur_8": "reisduur8"}, inplace=True)
+data.rename(columns={"ID": "id", "Vervoerwijzen": "vervoerwijze", "Reismotieven": "reismotief", 
+"RegioS": "regio", "Perioden": "jaar", "Verplaatsingen_1": "verplaatsingPerDag", "Afstand_2": "afstandPerDag", 
+"Reisduur_3": "reisduurPerDag", "Afstand_4": "afstandPerVerplaatsing", "ReisduurPerVerplaatsing_5": "reisduurPerVerplaatsing",
+"Verplaatsingen_6": "verplaatsingenPerJaar", "Afstand_7": "afstandPerJaar", "Reisduur_8": "reisduurPerJaar"}, inplace=True)
 
 # Replace keys
 # Get the keys we want to replace the values of: Vervoerwijzen, Reismotieven, RegioS, Perioden
