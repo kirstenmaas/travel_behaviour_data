@@ -1,10 +1,10 @@
 Key;Title;Description
-"A018979";"Auto (bestuurder)";""
-"A018980";"Auto (passagier)";""
-"A018981";"Trein";""
+"A018979";"Car (driver)";""
+"A018980";"Car (passenger)";""
+"A018981";"Train";""
 "A018982";"Bus/tram/metro";""
-"A018983";"Brom-/snorfiets";""
-"A018984";"Fiets";""
-"A018985";"Lopen";""
-"A018986";"Overige vervoerwijze";
+"A018983";"(Light-) moped";""
+"A018984";"Bicycle";""
+"A018985";"Pedestrian";""
+"A018986";"Other travel modes";
 "T001093";"Totaal";""
